@@ -8,4 +8,4 @@ Basic algorithms and their codes
 
 2 SELECTION SORT
 - Does not require sorted list/array.
-- Finds min value of an array and swaps it with the first item in an array. Iterates through subarrays. 
+- Finds min value of an array and swaps it with the first item in an array. Iterates in the same fashion through subarrays. 
