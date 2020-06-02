@@ -7,5 +7,5 @@ Basic algorithms and their codes
 - Number of guessings = log2n. n = length of an array
 
 2 SELECTION SORT
-- Does not require soretd list/array.
-- Finds min value of the array and swaps it with the first item in an array. Iterates through subarrays. 
+- Does not require sorted list/array.
+- Finds min value of an array and swaps it with the first item in an array. Iterates through subarrays. 
