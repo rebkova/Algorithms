@@ -11,3 +11,5 @@ Basic algorithms and their codes
 - Finds min value (IndexOfMinimum method) of an array and swaps (Swap method) it with the first item in an array. Iterates in the same fashion through subarrays. 
 - Asymptotic notation: Swap: big theta(n), IndexOfMinimum: big theta(n^2), Selectionsort: big theta(n) -> running time of selection sort is big theta(n^2)
 - Sidenote: sum of arithmetic series (i.e. how many times we run the for loop in IndexOfMinimum) = n^2/2 + n/2.
+
+3 INSERTION SORT
