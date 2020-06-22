@@ -13,3 +13,6 @@ Basic algorithms and their codes
 - Sidenote: sum of arithmetic series (i.e. how many times we run the for loop in IndexOfMinimum) = n^2/2 + n/2.
 
 3 INSERTION SORT
+- Assumes sorted list/array
+- Compares values left from the current element/value called key
+
