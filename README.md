@@ -14,5 +14,5 @@ Basic algorithms and their codes
 
 3 INSERTION SORT
 - Assumes sorted list/array.
-- Compares values in an array/list left from the current element/value called *key*. To make space for the key element, values in array are slid to the right or left in an array to make space for the key, depending on their size. 
+- Compares values in an array/list left from the current element/value called *key*. To make space for the key element, values in array are slid to the right or left in an array, depending on their size. 
 
