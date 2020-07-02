@@ -17,3 +17,5 @@ Basic algorithms and their codes
 - Compares values in an array/list left from the current element/value called *key*. To make space for the key element, values in array are slid to the right or left in an array, depending on their size. 
 - Asymptotic notation: worst case: big theta(n^2), best case: big theta(n), avg case for a random array: big theta(n^2) and almost sorted case: big theta(n). 
 
+4 RECURSION 
+
