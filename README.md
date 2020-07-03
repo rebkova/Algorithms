@@ -18,6 +18,7 @@ Basic algorithms and their codes
 - Asymptotic notation: worst case: big theta(n^2), best case: big theta(n), avg case for a random array: big theta(n^2) and almost sorted case: big theta(n). 
 
 4 RECURSION 
+
 4.1 Iterative factorial
 
 4.2 Recursive factorial
