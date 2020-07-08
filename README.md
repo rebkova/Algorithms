@@ -20,5 +20,6 @@ Basic algorithms and their codes
 4 RECURSION 
 
 4.1 Iterative factorial
+- Used to calculate in how many ways we can combine things.
 
 4.2 Recursive factorial
