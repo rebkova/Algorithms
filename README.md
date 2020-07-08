@@ -23,3 +23,4 @@ Basic algorithms and their codes
 - Used to calculate in how many ways we can combine things.
 
 4.2 Recursive factorial
+- We calculate the first case first (base case) - typically we know answer to this immediately, and then the second (recursive) case.
