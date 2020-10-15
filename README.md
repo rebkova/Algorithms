@@ -1,4 +1,4 @@
-# Algorithms - wip
+# Algorithms
 Basic algorithms and their codes
 
 1 BINARY SEARCH
